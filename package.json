@@ -23,7 +23,7 @@
     "d3": "^5.11.0",
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
-    "electron": "^6.0.7",
+    "electron": "^9.1.0",
     "enmap": "^5.1.0",
     "eris": "^0.10.1",
     "express": "^4.16.4",
